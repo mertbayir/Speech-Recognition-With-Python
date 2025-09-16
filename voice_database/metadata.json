@@ -1,0 +1,124 @@
+{
+  "speakers": {
+    "mert": {
+      "name": "Mert",
+      "speaker_id": "mert",
+      "samples": [
+        {
+          "audio_file": "mert_20250709_095029.wav",
+          "feature_file": "mert_20250709_095029.pkl",
+          "timestamp": "20250709_095029"
+        },
+        {
+          "audio_file": "mert_20250709_104130.wav",
+          "feature_file": "mert_20250709_104130.pkl",
+          "timestamp": "20250709_104130"
+        },
+        {
+          "audio_file": "mert_20250709_140323.wav",
+          "feature_file": "mert_20250709_140323.pkl",
+          "timestamp": "20250709_140323"
+        },
+        {
+          "audio_file": "mert_20250916_143948.wav",
+          "feature_file": "mert_20250916_143948.pkl",
+          "timestamp": "20250916_143948"
+        },
+        {
+          "audio_file": "mert_20250916_143955.wav",
+          "feature_file": "mert_20250916_143955.pkl",
+          "timestamp": "20250916_143955"
+        }
+      ],
+      "sample_count": 5,
+      "added_date": "2025-07-09T09:50:28.103573"
+    },
+    "ayse": {
+      "name": "Ayşe",
+      "speaker_id": "ayse",
+      "samples": [
+        {
+          "audio_file": "ayse_20250709_104131.wav",
+          "feature_file": "ayse_20250709_104131.pkl",
+          "timestamp": "20250709_104131"
+        },
+        {
+          "audio_file": "ayse_20250709_140323.wav",
+          "feature_file": "ayse_20250709_140323.pkl",
+          "timestamp": "20250709_140323"
+        }
+      ],
+      "sample_count": 2,
+      "added_date": "2025-07-09T10:41:31.051423"
+    },
+    "nelson_mandela": {
+      "name": "Nelson Mandela",
+      "speaker_id": "nelson_mandela",
+      "samples": [],
+      "sample_count": 0,
+      "added_date": "2025-07-09T13:12:09.610303"
+    },
+    "benjamin": {
+      "name": "Benjamin",
+      "speaker_id": "benjamin",
+      "samples": [
+        {
+          "audio_file": "benjamin_20250709_133136.wav",
+          "feature_file": "benjamin_20250709_133136.pkl",
+          "timestamp": "20250709_133136"
+        }
+      ],
+      "sample_count": 1,
+      "added_date": "2025-07-09T13:31:32.844210"
+    },
+    "julia": {
+      "name": "Julia",
+      "speaker_id": "julia",
+      "samples": [],
+      "sample_count": 0,
+      "added_date": "2025-07-09T13:34:13.708040"
+    },
+    "magaret": {
+      "name": "Magaret",
+      "speaker_id": "magaret",
+      "samples": [
+        {
+          "audio_file": "magaret_20250709_133426.wav",
+          "feature_file": "magaret_20250709_133426.pkl",
+          "timestamp": "20250709_133426"
+        }
+      ],
+      "sample_count": 1,
+      "added_date": "2025-07-09T13:34:26.204508"
+    },
+    "ozan": {
+      "name": "Ozan",
+      "speaker_id": "ozan",
+      "samples": [
+        {
+          "audio_file": "ozan_20250709_151421.wav",
+          "feature_file": "ozan_20250709_151421.pkl",
+          "timestamp": "20250709_151421"
+        }
+      ],
+      "sample_count": 1,
+      "added_date": "2025-07-09T15:13:59.408235"
+    }
+  },
+  "total_samples": 10,
+  "last_updated": "2025-09-16T14:39:58.319353",
+  "model_trained": true,
+  "model_info": {
+    "model_type": "Random Forest",
+    "accuracy": 0.6944444444444443,
+    "training_samples": 10,
+    "speakers": [
+      "ayse",
+      "benjamin",
+      "magaret",
+      "mert",
+      "ozan"
+    ],
+    "trained_date": "2025-09-16T14:39:58.319353"
+  }
+}
