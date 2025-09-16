@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="img/arayuz.png" alt="Arayüz Görseli" width="700" />
+  <img src="img/arayuz.png" alt="Arayüz Görseli" width="300" />
 </p>
 
 # 🗣️ Speech Recognition With Python
