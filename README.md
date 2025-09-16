@@ -3,7 +3,7 @@
   <img src="img/arayuz.png" alt="Arayüz Görseli" width="300" />
 </p>
 
-# 🗣️ Speech Recognition With Python
+# 🗣️ Python ile Ses Tanıma
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue?logo=python" />
@@ -14,9 +14,9 @@
 
 ---
 
-## 🚀 Proje Özeti
+##Proje Özeti
 
-**Speech Recognition With Python**: Ses kaydı, kişi tanıma ve ses veritabanı yönetimi sağlayan, tamamen Python ile geliştirilmiş modern bir masaüstü uygulamadır. Kendi ses veritabanınızı oluşturun, konuşmacıları tanıyın ve makine öğrenimi ile güçlü modeller eğitin!
+**Python ile Ses Tanıma**: Ses kaydı, kişi tanıma ve ses veritabanı yönetimi sağlayan, tamamen Python ile geliştirilmiş modern bir masaüstü uygulamadır. Kendi ses veritabanınızı oluşturun, konuşmacıları tanıyın ve makine öğrenimi ile güçlü modeller eğitin!
 
 ---
 
@@ -25,14 +25,14 @@
 - **Ana Arayüz (`main_app.py`)**
   - Modern ve kullanıcı dostu Tkinter GUI
   - Kişi ekleme, silme, ses kaydı, model eğitimi, tanıma ve istatistikler
-  - Kişi silme: Tüm veriler eksiksiz temizlenir
+  - Kişi silme: Tüm veriler temizlenir
 
 - **Ses Kaydedici (`voice_recorder.py`)**
-  - Yüksek kaliteli ses kaydı ve oynatma
+  - Ses kaydetme ve oynatma
   - Kayıtları listeden seçip dinleyebilme
 
 - **Ses Özellikleri (`voice_features.py`)**
-  - MFCC, spektral, chroma, pitch, tempo ve daha fazlası
+  - MFCC, spektral, chroma, pitch, tempo gibi ses işleme yöntemleri
   - Detaylı analiz ve görselleştirme
 
 - **Veritabanı & Model (`speaker_database.py`)**
@@ -49,16 +49,7 @@
 
 ---
 
-## ✨ Yenilikler & Güncellemeler
-
-- 🔥 Kişi silme özelliği: Tüm veriler eksiksiz silinir
-- 🧹 Güven oranı kaldırıldı, sade ve net sonuç
-- 🧠 Model kalitesi: Daha fazla algoritma, class balancing, gelişmiş özellik çıkarımı
-- 🛡️ Hata yönetimi ve kod sadeleştirmeleri
-
----
-
-## 📦 Kurulum & Kullanım
+## Kurulum & Kullanım
 
 ```bash
 # Gerekli paketleri yükleyin
@@ -73,7 +64,7 @@ python main_app.py
 
 ---
 
-## 📚 Ekstra Bilgiler
+## Ekstra Bilgiler
 
 - Proje Python 3.10+ ile uyumludur.
 - Büyük veri ve çoklu kişi desteği vardır.
@@ -82,5 +73,5 @@ python main_app.py
 ---
 
 <p align="center">
-  <b>💡 Kendi ses veritabanını oluştur, konuşmacıları tanı, makine öğrenimi ile geleceğe ses ver!</b>
+  <b>Kendi ses veritabanını oluştur, konuşmacıları tanı, makine öğrenimi ile geleceğe ses ver!</b>
 </p>
