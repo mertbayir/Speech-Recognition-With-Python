@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="img/arayuz.png" alt="Arayüz Görseli" width="700" />
 </p>
 
+=======
+>>>>>>> 82b721a39b5d8deeaed559a775091377e3eded0e
 # 🗣️ Speech Recognition With Python
 
 <p align="center">
