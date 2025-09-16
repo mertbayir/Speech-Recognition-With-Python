@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Teknik Özellikler
+## Teknik Özellikler
 
 - **Ana Arayüz (`main_app.py`)**
   - Modern ve kullanıcı dostu Tkinter GUI
